@@ -1,0 +1,8 @@
+puts "Is it greater? #{5 > -2}"
+puts "Is it greater or equal? #{5 >= -2}"
+puts "Is it less or equal? #{5 <= -2}"
+puts "I will count now my chickens"
+puts "Hens: #{25 + 30 / 6}"
+puts "Roosters: #{100 - 25 *3 % 4}"
+puts "3 + 2 = #{3 + 2}"
+puts "5 - 7 = #{5 - 7}"
